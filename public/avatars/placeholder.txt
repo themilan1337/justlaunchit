@@ -1,0 +1,7 @@
+This folder contains avatar images for the breathing app speakers.
+
+Please add the following images here:
+- emily.jpg
+- william.jpg
+- khloe.jpg
+- john.jpg
